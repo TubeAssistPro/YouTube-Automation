@@ -1,4 +1,28 @@
 # YouTube-Automation
+
+🚀 Automate your YouTube workflow like a pro — from content uploading to engagement optimization.
+
+## 📌 Overview
+
+**YouTube-Automation** is a powerful automation toolkit designed to streamline and scale your YouTube channel operations. Whether you're managing one channel or running a content empire, this tool helps you automate repetitive tasks like:
+
+- Video uploading
+- Title, description, and tag generation
+- Thumbnail integration
+- Scheduled publishing
+- Comment and like automation
+- Analytics reporting
+- AI-generated content prompts
+
+## ⚙️ Features
+
+- 🔄 **Auto Uploading**: Upload videos from a local folder or cloud storage on a schedule.
+- 🧠 **AI Content Generator**: Use AI to generate engaging titles, descriptions, and keyword-rich tags.
+- 🎯 **Smart Scheduling**: Set up your video to publish at optimal engagement times.
+- 💬 **Engagement Automation**: Auto-like, auto-comment, and respond to comments based on sentiment.
+- 📊 **Analytics Snapshot**: Fetch performance reports via YouTube API (views, CTR, watch time, etc.).
+- 🧩 **Plugin Support**: Easily extend features or integrate with external tools (e.g., ChatGPT, Notion, Airtable).
+# YouTube-Automation
 TubeAssistPro is an all-in-one automation tool designed to help creators, influencers, and businesses grow faster and monetize smarter on YouTube. Whether you're struggling with video creation, engagement, or audience growth, TubeAssistPro does the hard work for you!
 # TubeAssistPro
 
